@@ -58,11 +58,11 @@ rentsmart/
 
 1. Clone este repositório para sua máquina:
 
-   ```
+   
    git clone https://github.com/Kaaraujo27/RentSmart-Sistema-de-Or-amento-de-Loca-o-com-Python-e-Orienta-o-a-Objetos.git
    cd rentsmart
    
-   ```
+   
 
 2. Execute o programa no terminal:
 
