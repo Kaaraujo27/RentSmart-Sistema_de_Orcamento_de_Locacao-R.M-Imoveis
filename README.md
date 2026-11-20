@@ -60,11 +60,12 @@ rentsmart/
 
    
    git clone https://github.com/Kaaraujo27/RentSmart-Sistema-de-Or-amento-de-Loca-o-com-Python-e-Orienta-o-a-Objetos.git
+
    cd rentsmart
    
    
 
-2. Execute o programa no terminal:
+3. Execute o programa no terminal:
 
    ```
    python rentsmart.py
@@ -73,7 +74,7 @@ rentsmart/
 
    *(No Linux ou macOS, caso necessário, utilize `python3 rentsmart.py`.)*
 
-3. Preencha as informações solicitadas no menu interativo:
+4. Preencha as informações solicitadas no menu interativo:
 
    * Categoria do imóvel (`1` Apartamento, `2` Casa ou `3` Estúdio);
 
