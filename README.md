@@ -1,5 +1,8 @@
 # RentSmart — Sistema de Orcamento de Locacão (R.M Imoveis)
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_fqymf8fqymf8fqym (1)" src="https://github.com/user-attachments/assets/7e7681bb-615a-48f8-bbac-89a4fd30267b" />
+
+
 Aplicação desenvolvida em **Python** aplicando **Pensamento Algorítmico** e **Programação Orientada a Objetos (POO)** para automatizar o cálculo de orçamentos de locação da imobiliária **R.M Imóveis**.
 
 ## Sobre o Projeto
